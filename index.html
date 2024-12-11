@@ -1,0 +1,103 @@
+<!-- <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>Help Rocket</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+<body>
+	<div class="flex-column">
+		<div class="left">
+			<img src="imagens/img-index.png" class="">
+			<div class="text-container">
+				<h1>Bem vindo(a) !</h1>
+				<p>Informe o login e senha para acessar o sistema.</p>
+			</div>
+		
+		</div>
+		<div class="loginbox">
+			
+			<h1>Help Rocket</h1>
+			<i class="bi bi-person-fill-gear"></i>
+			<form method="post" action="autenticacao.php">
+				<input type="text" name="login" id="login" placeholder="Digite seu login" required>
+				<input type="password" name="senha"  id="senha" placeholder="Digite sua senha" required>
+				<input type="submit" name="" value="Logar">
+				<br><br><center><p><u><a href="esqueci.html">Esqueci a senha</a></u></p></center>
+			</form>
+			
+	</div>
+
+	
+</body>
+</html> -->
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>Help Rocket</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+	<style>
+		.password-container {
+			position: relative;
+		}
+		.password-toggle {
+			width: 35px;
+			position: absolute;
+			top: 50%;
+			right: 10px;
+			transform: translateY(-50%);
+			cursor: pointer;
+			font-size: 35px !important; /* Reduz o tamanho do ícone */
+			color: #333; /* Cor do ícone, pode ajustar conforme o design */
+		}
+	</style>
+</head>
+<body>
+	<div class="flex-column">
+		<div class="left">
+			<img src="imagens/img-index.png" class="">
+			<div class="text-container">
+				<h1>Bem vindo(a)!</h1>
+				<p>Informe o login e senha para acessar o sistema.</p>
+			</div>
+		</div>
+		<div class="loginbox">
+			<h1>Help Rocket</h1>
+			<i class="bi bi-person-fill-gear"></i>
+			<form method="post" action="autenticacao.php">
+				<input type="text" name="login" id="login" placeholder="Digite seu login" required>
+				
+				<div class="password-container">
+					<input type="password" name="senha" id="senha" placeholder="Digite sua senha" required>
+					<i class="bi bi-eye-slash-fill password-toggle" id="togglePassword"></i>
+				</div>
+				
+				<input type="submit" name="" value="Logar">
+				<br><br>
+				<center><p><u><a href="esqueci.html">Esqueci a senha</a></u></p></center>
+			</form>
+		</div>
+	</div>
+
+	<script>
+		const passwordInput = document.getElementById('senha');
+		const togglePassword = document.getElementById('togglePassword');
+
+		togglePassword.addEventListener('click', () => {
+			const type = passwordInput.type === 'password' ? 'text' : 'password';
+			passwordInput.type = type;
+			
+			// Alterna o ícone
+			togglePassword.classList.toggle('bi-eye');
+			togglePassword.classList.toggle('bi-eye-slash-fill');
+		});
+	</script>
+</body>
+</html>
+
