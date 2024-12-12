@@ -126,9 +126,6 @@
 </fieldset>
 <br><br>
 <div class="footer l-box">
-    <p align="center">
-         © Desenvolvido por Adriana Mataveli Viana, José Ricardo Cezário e Vanessa Souto Ferreira.
-    </p>
 </div>
 
 </body>

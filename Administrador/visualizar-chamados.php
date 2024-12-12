@@ -21,7 +21,7 @@ $con = $conexao->query($consulta);
 		<meta name="description" content="A layout example that shows off a responsive pricing table.">
 		
 
-		<title>ARV-DESK</title>	
+		<title>Help Rocket</title>	
 		<link rel="stylesheet" href="../css/formstyle.css">
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -37,14 +37,14 @@ $con = $conexao->query($consulta);
 			color: #072c45;
 		}
 		.p-3{
-			widht:200px;
+			width:200px;
 			height:70px;
 			border-radius: 20px 20px;
 			background-image: linear-gradient(to bottom right, red, #FFEFD5);
 
 		}
 		.p-2{
-			widht:60px;
+			width:60px;
 			height:80px;
 			border-radius: 20px 20px;
 			background-image: linear-gradient(to bottom right, orange, #FFDAB9);
@@ -138,7 +138,7 @@ $con = $conexao->query($consulta);
 
 	<style type="text/css">
 		.conteudo {
-			width: 50%
+			width: 50%;
 			height: 50%;
 		}
 		
