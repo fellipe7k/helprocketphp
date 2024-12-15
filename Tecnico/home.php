@@ -30,7 +30,7 @@ $totalPendente = mysqli_fetch_assoc($conPendentes);
 
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-		<title>ARV-DESK</title>	
+		<title>Help Rocket</title>	
 		<link rel="stylesheet" href="../css/formstyle.css">
 		<style>
 		h1{
@@ -293,7 +293,7 @@ $totalPendente = mysqli_fetch_assoc($conPendentes);
 		</fieldset>
 		</form>
 		<footer class="footer">
-			<i class="bi bi-code-slash"></i> Desenvolvido por Adriana Mataveli, José Ricardo e Vanessa Souto.
+		<i class="bi bi-code-slash"></i> Todos os direitos reservados - Help Rocket
 		</footer>
 	</body>
 	

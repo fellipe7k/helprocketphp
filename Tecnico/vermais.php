@@ -16,7 +16,7 @@
 
 
 		<meta charset="utf-8">
-		<title>ARV-DESK</title>	
+		<title>Help Rocket</title>	
 		<link rel="stylesheet" href="../css/formstyle.css">
 		<link rel="stylesheet" href="../css/vermais.css">
 		
@@ -137,7 +137,7 @@
 		</fieldset>
 		</form>
 		<footer class="footer">
-			<i class="bi bi-code-slash"></i> Desenvolvido por Adriana Mataveli, José Ricardo e Vanessa Souto.
+		<i class="bi bi-code-slash"></i> Todos os direitos reservados - Help Rocket
 		</footer>
 	</body>
 </html>

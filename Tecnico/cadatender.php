@@ -7,7 +7,7 @@ session_start();
 
 <html>
  <head>
-  <title>Arv-Desk</title>
+  <title>Help Rocket</title>
   <meta charset="utf-8">   
    <link rel="stylesheet" type="text/css" href="../css/formstyle.css">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
@@ -44,6 +44,6 @@ mysqli_close($conexao);
 </fieldset>
 </body>
 <footer class="footer">
-			<i class="bi bi-code-slash"></i> Desenvolvido por Adriana Mataveli, José Ricardo e Vanessa Souto.
+<i class="bi bi-code-slash"></i> Todos os direitos reservados - Help Rocket
 		</footer>
 </html>

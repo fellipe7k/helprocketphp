@@ -15,7 +15,7 @@
 	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-	<title>ARV-DESK</title>
+	<title>Help Rocket</title>
 	 <body>
 		<div >
 		<form class="form" method="post" action="">
@@ -107,6 +107,6 @@
 	
 	</body>
 	<footer class="footer">
-			<i class="bi bi-code-slash"></i> Desenvolvido por Adriana Mataveli, José Ricardo e Vanessa Souto.
+	<i class="bi bi-code-slash"></i> Todos os direitos reservados - Help Rocket
 		</footer>
 	</html>

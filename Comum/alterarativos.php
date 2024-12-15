@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" type="text/css" href="css/formstyle.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-	<title>ARV-DESK</title>
+	<title>Help Rocket</title>
 	 <body>
 	<form class="form" method="post" action="">
 		<h1>Editar Usuário</h1>

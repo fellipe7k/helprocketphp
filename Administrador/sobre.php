@@ -36,7 +36,7 @@
 <fieldset class="sobre" ;>
 <div class="banner">
     <h1 class="banner-head">
-        ARV-DESK<br>
+        Help Rocket<br>
         Sistema Help Desk.
     </h1>
 </div>
@@ -113,8 +113,8 @@
             <div class="l-box">
                 <h3 class="information-head">Desenvolvimento</h3>
                 <p>
-                    O sistema foi desenvolvido pelos alunos Adriana Mataveli Viana, José Ricardo Cezário e Vanessa Souto Ferreira da FATEC -Faculdade de Tecnologia, em Ourinhos-SP.
-					Foi utilizada a linguagem de programação: PHP, e html e css para os layouts.
+                    O sistema foi desenvolvido pelos alunos Fellipe Fernandes, Gabriel Silva, Leonardo de Freitas, Paula de Paula e Yan Ricardo da FACINPRO - Faculdade Instituto Projeção, em Goiânia - GO.
+					Foi utilizada a linguagem de programação: PHP e  JavaScript / html e css para marcação e estilização.
                 </p>
             </div>
         </div>
@@ -125,7 +125,7 @@
 </div> <!-- end l-content -->
 </fieldset>
 <br><br>
-<div class="footer l-box">
+<div class="footer l-box">  
 </div>
 
 </body>

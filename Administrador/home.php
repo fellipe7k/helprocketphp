@@ -262,6 +262,7 @@ $totalPendente = mysqli_fetch_assoc($conPendentes);
 
 		</form>
 		<footer class="footer">
+		<i class="bi bi-code-slash"></i> Todos os direitos reservados - Help Rocket
 		</footer>
 	</body>
 

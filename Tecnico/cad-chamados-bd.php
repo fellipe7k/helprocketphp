@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="../css/formstyle.css">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-	<title>ARVDESK</title>
+	<title>Help Rocket</title>
 </head>
 <body>
 
@@ -54,6 +54,6 @@
 
 </body>
 <footer class="footer">
-			<i class="bi bi-code-slash"></i> Desenvolvido por Adriana Mataveli, José Ricardo e Vanessa Souto.
+<i class="bi bi-code-slash"></i> Todos os direitos reservados - Help Rocket
 		</footer>
 </html>

@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" type="text/css" href="../css/formstyle.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-	<title>ARV-DESK</title>
+	<title>Help Rocket</title>
 </head>
 <body>
 	<div class="cadastro-content">
@@ -61,7 +61,7 @@
 	
 </body>
 <footer class="footer">
-	<i class="bi bi-code-slash"></i> Desenvolvido por Adriana Mataveli, José Ricardo e Vanessa Souto.
+<i class="bi bi-code-slash"></i> Todos os direitos reservados - Help Rocket
 </footer>
 
 
